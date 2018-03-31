@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SJRuntimeExtension_Example' do
+  pod 'SJRuntimeExtension', :path => '../'
+
+  target 'SJRuntimeExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

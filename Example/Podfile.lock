@@ -1,0 +1,16 @@
+PODS:
+  - SJRuntimeExtension (0.1.0)
+
+DEPENDENCIES:
+  - SJRuntimeExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SJRuntimeExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SJRuntimeExtension: 0515ca89c25c52fe01f6d3491cac887d88a5c6eb
+
+PODFILE CHECKSUM: b601c8076c9ca672f030c3493be5092330f211f0
+
+COCOAPODS: 1.1.1

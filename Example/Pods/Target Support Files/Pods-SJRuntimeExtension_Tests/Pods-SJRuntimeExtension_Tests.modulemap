@@ -1,0 +1,6 @@
+framework module Pods_SJRuntimeExtension_Tests {
+  umbrella header "Pods-SJRuntimeExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

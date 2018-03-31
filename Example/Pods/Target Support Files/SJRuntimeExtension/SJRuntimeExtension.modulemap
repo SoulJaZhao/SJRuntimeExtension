@@ -1,0 +1,6 @@
+framework module SJRuntimeExtension {
+  umbrella header "SJRuntimeExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
